@@ -53,3 +53,4 @@ This is a full-stack project, which means you need to run both the frontend (the
 You can now use the AiRus application in your browser! The frontend at `localhost:3000` will communicate with the backend at `localhost:8000`.# Gemini
 # fiiiiinal
 # fiiiiinal
+# ntr
